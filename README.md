@@ -16,4 +16,4 @@ It attempts to:
 3) Print the public email addresses based on the user's own repos (ignoring forks)
 
 
-To compile to a jar, use `mvn install`.
+To compile to a jar, use `mvn install`. Precompiled jars are in [releases](https://github.com/gonzalezjo/githubtoemail/releases).
