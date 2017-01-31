@@ -17,3 +17,6 @@ It attempts to:
 
 
 To compile to a jar, use `mvn install`. Precompiled jars are in [releases](https://github.com/gonzalezjo/githubtoemail/releases).
+
+
+Oh, and I totally forgot that email regex was a thing and went with (sorry!) string splitting. Sorry about that.
